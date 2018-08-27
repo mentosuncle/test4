@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.bluelinerental.com/equipment/category/backhoe-loaders");
+header("Location: https://www.andyguitar.co.uk/");
 die();
 ?>
